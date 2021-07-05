@@ -1,0 +1,13 @@
+{
+  "name": "clone-repo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bogdan Kapustin",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "fs-jetpack": "^2.4.0",
+    "got": "^11.2.0",
+    "progress": "^2.0.3"
+  }
+}
